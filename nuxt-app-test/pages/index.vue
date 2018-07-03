@@ -1,13 +1,17 @@
 <template>
   <section class="container">
     <div>
-      <app-logo/>
+        <ul>
+        <li>
+           <nuxt-link to="/">Home</nuxt-link>
+        </li>
+        <li>
+           <nuxt-link to="/about">About</nuxt-link>
+        </li>
+      </ul>              
       <h1 class="title">
         nuxt-app-test - Cobaia 01
       </h1>
-      <h2 class="subtitle">
-        Nuxt.js project
-      </h2>
       <h2 class="subtitle">
         Gerado apartir de -> ../nuxt-community/starter-template  :D
       </h2>
