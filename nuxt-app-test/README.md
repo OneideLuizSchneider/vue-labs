@@ -1,4 +1,4 @@
-# nuxt-app-test
+# nuxt-app-test - Cobaia 01 :D
 
 > Nuxt.js project
 
